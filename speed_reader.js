@@ -1,2 +1,2 @@
 // do something here ...
-document.body.style.border = "5px solid red";
+document.body.style.border = "5px solid blue";
